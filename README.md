@@ -18,8 +18,6 @@
 ![Demonstração da Easy Shopping](https://github.com/brunoaaraujo/Landing-Page-Responsiva/blob/main/assets/smartphone.png?raw=true)
 
 
-> *Nota: Se desejar, substitua a imagem acima por uma captura de tela real do projeto.*
-
 ## 🧪 Tecnologias Utilizadas
 
 - **HTML5** – Estruturação da página
