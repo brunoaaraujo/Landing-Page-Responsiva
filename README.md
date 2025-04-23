@@ -13,7 +13,10 @@
 ## 📸 Demonstração
 
 <!-- Você pode adicionar uma imagem ou GIF da página aqui -->
-![Demonstração da Easy Shopping](./screenshot.png)
+![Demonstração da Easy Shopping](https://github.com/brunoaaraujo/Landing-Page-Responsiva/blob/main/assets/desktop.png?raw=true)
+
+![Demonstração da Easy Shopping](https://github.com/brunoaaraujo/Landing-Page-Responsiva/blob/main/assets/smartphone.png?raw=true)
+
 
 > *Nota: Se desejar, substitua a imagem acima por uma captura de tela real do projeto.*
 
@@ -21,9 +24,3 @@
 
 - **HTML5** – Estruturação da página
 - **CSS3** – Estilização e responsividade com media queries
-
-## 📦 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/easy-shopping.git
